@@ -3,10 +3,10 @@
 <h3 align="center"   color: aliceblue;>With a diverse skillset spanning web development, iOS, and Flutter app development, I possess a unique ability to craft versatile and polished digital solutions. Proficient in Swift, Java, Dart, C++, and HTML/CSS, I can tackle a wide range of projects with precision and innovation, ensuring a seamless user experience across various platforms and technologies. My expertise and adaptability make me a valuable asset to any development team, capable of delivering high-quality solutions to meet diverse client needs.</h3>
 <div style="display: flex; justify-content: space-evenly;">
 
-<img src="https://media.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif" alt="" width="400px" height="350px" align="left">
-   <img src="https://dezinebrainz.com/images/ios-app.gif" alt=""  width="400px" height="350px"" >
-<img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" alt="" width="400px" height="350px"">
-  <img src="https://media.tenor.com/2WarV9tQYVcAAAAC/mobile-app-architecture-mobile-app-development.gif" alt="" width="400px" height="350px" >
+<img src="https://media.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif" alt="" width="350px" height="350px" align="left">
+   <img src="https://dezinebrainz.com/images/ios-app.gif" alt=""  width="350px" height="350px"" >
+<img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" alt="" width="350px" height="350px"">
+  <img src="https://media.tenor.com/2WarV9tQYVcAAAAC/mobile-app-architecture-mobile-app-development.gif" alt="" width="350px" height="350px" >
 
 </div>
 
