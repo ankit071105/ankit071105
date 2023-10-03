@@ -1,6 +1,6 @@
 <img src="https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.large_2x.gif" alt="" width="1000px" height="300px">
     <h1 align="center">Hi 🙏🏼 I'm Ankit Kumar</h1>
-<h3 align="center">As a versatile developer with expertise in web development, iOS, and Android, I bring a well-rounded skillset to create seamless digital experiences across platforms.</h3>
+<h3 align="center">With a diverse skillset spanning web development, iOS, and Flutter app development, I possess a unique ability to craft versatile and polished digital solutions. Proficient in Swift, Java, Dart, C++, and HTML/CSS, I can tackle a wide range of projects with precision and innovation, ensuring a seamless user experience across various platforms and technologies. My expertise and adaptability make me a valuable asset to any development team, capable of delivering high-quality solutions to meet diverse client needs.</h3>
 <div style="display: flex; justify-content: space-evenly;">
 
 <img src="https://media.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif" alt="" width="250px" height="250px" align="left">
