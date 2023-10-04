@@ -12,12 +12,13 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit071105&label=Profile%20views&color=0e75b6&style=flat" alt="ankit071105" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit071105" alt="ankit071105" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<p align="left"> <a href="https://twitter.com/ankitkumar63433" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumar63433?logo=twitter&style=for-the-badge" alt="ankitkumar63433" /></a> </p>
 - 🌱 I’m currently learning [Swift UI](https://github.com/ankit071105/Beardo)
 
 - 👯 I’m looking to collaborate on [OSCodeCommunitySite](https://github.com/ankit071105/OSCodeCommunitySite)
