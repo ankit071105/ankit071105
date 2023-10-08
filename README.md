@@ -54,7 +54,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit071105&show_icons=true&locale=en&layout=compact" alt="ankit071105" /></p>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" width="400px" height="250px" >
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" width="400px" height="150px" >
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit071105&show_icons=true&locale=en" alt="ankit071105" /></p>
 
 
