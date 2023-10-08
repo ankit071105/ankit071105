@@ -1,4 +1,4 @@
-<img src="https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.large_2x.gif" alt="" width="1200px" height="300px">
+[![An image of @ankit071105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit071105)](https://holopin.io/@ankit071105)
     <h1 align="center style="color: aliceblue;">Hi 🙏🏼 I'm Ankit Kumar</h1>
 <h3 align="center"   color: yellow;>
     I am an iOS and front-end developer with expertise in building user interfaces and experiences for Apple devices. Additionally, I have proficiency in Flutter for cross-platform app development, expanding my skill set to deliver versatile mobile solutions.
