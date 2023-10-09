@@ -1,4 +1,5 @@
-[![An image of @ankit071105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit071105)](https://holopin.io/@ankit071105)
+
+![Screenshot 2023-10-09 at 9 01 35 PM](https://github.com/ankit071105/ankit071105/assets/139707943/f4568562-3642-49e3-9fba-5d7e212abb3d)
 
 
 <h1 align="center style="color: aliceblue;">Hi 🙏🏼 I'm Ankit Kumar</h1>
