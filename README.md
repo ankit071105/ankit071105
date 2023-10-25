@@ -12,7 +12,7 @@
 <img src="https://media.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif" alt="" width="200px" height="250px" align="left">
    <img src="https://dezinebrainz.com/images/ios-app.gif" alt=""  width="200px" height="250px"" >
 <img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" alt="" width="200px" height="250px"">
-  <img src="https://media.tenor.com/2WarV9tQYVcAAAAC/mobile-app-architecture-mobile-app-development.gif" alt="" width="200px" height="250px" >
+
 
 </div>
 
