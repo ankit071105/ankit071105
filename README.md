@@ -25,16 +25,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/ankitkumar63433" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumar63433?logo=twitter&style=for-the-badge" alt="ankitkumar63433" /></a> </p>
-- 🌱 I’m currently learning [Swift UI](https://github.com/ankit071105/Beardo)
-- 👯 I’m looking to collaborate on [OSCodeCommunitySite](https://github.com/ankit071105/OSCodeCommunitySite)
-- -<img src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt="" width="240px" height="350px" align="right">
 - 🌱 I’m currently learning ** flutter and front-end Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankit071105](https://github.com/ankit071105)
 
-- 📄 Know about my experiences [https://ankit071105.github.io/sawanmusic/](https://ankit071105.github.io/sawanmusic/)
-
-- 💬 Ask me about **Ios Development & Dart Languages**
+- 💬 Ask me about **Web Development , Ios Development & Flutter**
 
 - 📫 How to reach me **kumarankit11458@gmail.com**
 
