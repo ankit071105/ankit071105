@@ -46,11 +46,9 @@
 - iOS Development
 - Flutter
 
-## 📫 Contact Me
-- Email: kumarankit11458@gmail.com
+[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=github)](https://ankit071105.github.io/Ankit_Profile/)
 
-## 📄 Experience
-- Know more about my experiences on [My Portfolio](https://ankit071105.github.io/Ankit_Profile/)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=github)](mailto:kumarankit11458@gmail.com)
 
 [![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
 
