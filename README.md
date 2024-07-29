@@ -2,19 +2,13 @@
 
 <br>
 
-
-
-
-
-<br>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
@@ -24,45 +18,40 @@
 </picture>
 
 # 💫 About Me:
- # Hi, I'm Ankit Kumar
+## Hi, I'm Ankit Kumar
 
-## 🌱 Having Knowledge about
-- **Flutter**
-- **Front-end Web Development**
-- **iOS Development**
+### 🌱 Having Knowledge about
+[![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
+[![App Development](https://img.shields.io/badge/App%20Development-800080?style=plastic)](your_link_here)
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Front-end Web Development](https://img.shields.io/badge/Front--end%20Web%20Development-%23323330.svg?style=flat)](your_link_here)
-[![iOS Development](https://img.shields.io/badge/iOS%20Development-%231179c0.svg?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/)
 
-## 🌱 Currently Learning
-- **DSA With JAVA** 
-- **Backend With SQL and JavaScript**
-- **AIML**
+### 🌱 Currently Learning
+[![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
+[![Kotlin Android Development](https://img.shields.io/badge/Kotlin%20Android%20Development-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)](your_link_here)
+[![Backend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 
-[![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](your_link_here)
-[![Backend With SQL and JavaScript](https://img.shields.io/badge/Backend%20With%20SQL%20and%20JavaScript-%2343853D.svg?style=flat)](your_link_here)
-[![AIML](https://img.shields.io/badge/AIML-%23339966.svg?style=flat&logo=ai&logoColor=white)](your_link_here)
 
-## 👨‍💻 Projects
-- Check out all of my projects on [GitHub](https://github.com/ankit071105)
+### 👨‍💻 Projects
+- Check out all of my projects on
+[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
 
-## 💬 Ask Me About
-- Web Development
-- iOS Development
-- Flutter
+### 💬 Ask Me About
+[![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
+[![App Development](https://img.shields.io/badge/App%20Development-FF6F61?style=plastic)](your_link_here)
+
+## Experience 👨🏻‍🎓
 
 [![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=github)](https://ankitportfolio07.netlify.app/)
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=github)](mailto:kumarankit11458@gmail.com)
+## Connect With Me 🔗
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/tech_ankit07)
+[![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:kumarankit11458@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_ankit07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-01a52827b)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitKumar63433)
+[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode)](https://leetcode.com/u/tech_ankit09/)
 
-[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_ankit07/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-01a52827b)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitKumar63433) [![LeetCode Solutions](https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode)](https://leetcode.com/u/tech_ankit09/)
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
@@ -82,8 +71,8 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
 
-
-
+# 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankit071105&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ankit071105/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -94,4 +83,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ankit071105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=ankit071105&icon=9&color=6)](https://visitcount.itsvg.in)
+
 
