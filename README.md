@@ -32,8 +32,7 @@
 
 
 ### 👨‍💻 Projects
-- Check out all of my projects on
-[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
+[![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
 
 ### 💬 Ask Me About
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
@@ -41,7 +40,8 @@
 
 ## Experience 👨🏻‍🎓
 
-[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=github)](https://ankitportfolio07.netlify.app/)
+[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
+
 
 ## Connect With Me 🔗
 [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/tech_ankit07)
