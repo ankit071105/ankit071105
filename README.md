@@ -1,5 +1,4 @@
 [![An image of @ankit071105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit071105)](https://holopin.io/@ankit071105)
-
 <br>
 
 <picture>
