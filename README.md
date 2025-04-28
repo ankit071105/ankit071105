@@ -24,10 +24,10 @@
 
 
 ### 🌱 Currently Learning
-[![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
-[![Kotlin Android Development](https://img.shields.io/badge/Kotlin%20Android%20Development-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)](your_link_here)
-[![Backend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
-
+[![Gen AI](https://img.shields.io/badge/Gen%20AI-307080?style=plastic)](your_link_here)
+[![ML](https://img.shields.io/badge/Machine%20Learning-103080?style=plastic)](your_link_here)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-901030?style=plastic)](your_link_here)
+[![DSA](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
 
 ### 👨‍💻 Projects
 [![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
