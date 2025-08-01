@@ -16,70 +16,74 @@
 </picture>
 
 # 💫 About Me:
-## Hi, I'm Ankit Kumar
+## Hi, I'm Ankit Kumar - AI & Full Stack Developer
 
-### 🌱 Having Knowledge about
-[![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
-[![App Development](https://img.shields.io/badge/App%20Development-800080?style=plastic)](your_link_here)
+### 🌟 Core Competencies
+[![Full Stack Development](https://img.shields.io/badge/Full%20Stack-FF6F61?style=plastic)](https://github.com/ankit071105)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=plastic)](https://github.com/ankit071105)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-901030?style=plastic)](https://github.com/ankit071105)
 
-
-### 🌱 Currently Learning
-[![Gen AI](https://img.shields.io/badge/Gen%20AI-307080?style=plastic)](your_link_here)
-[![ML](https://img.shields.io/badge/Machine%20Learning-103080?style=plastic)](your_link_here)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-901030?style=plastic)](your_link_here)
-[![DSA](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
-
-### 👨‍💻 Projects
-[![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ankit071105-black?style=plastic&logo=github)](https://github.com/ankit071105)
-
-### 💬 Ask Me About
-[![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
-[![App Development](https://img.shields.io/badge/App%20Development-FF6F61?style=plastic)](your_link_here)
-
-## Experience 👨🏻‍🎓
-
-[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
-
-
-## Connect With Me 🔗
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/tech_ankit07)
-[![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:kumarankit11458@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_ankit07/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-01a52827b)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitKumar63433)
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode)](https://leetcode.com/u/tech_ankit09/)
-
-### 💻 Tech Stack:
+### 🔧 Technical Skills
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+
+#### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 
-# 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit071105&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ankit071105/github-profile-trophy)
+#### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
 
-# 📊 GitHub Stats:
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
+### 🚀 Currently Working On
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-307080?style=plastic)](https://github.com/ankit071105)
+[![Deep Learning Projects](https://img.shields.io/badge/Deep%20Learning-901030?style=plastic)](https://github.com/ankit071105)
+[![DSA Solutions](https://img.shields.io/badge/DSA%20Solutions-100%2B-brightgreen?style=plastic)](https://leetcode.com/u/tech_ankit09/)
+
+### 👨‍💻 Featured Projects
+[![ML Projects](https://img.shields.io/badge/🤖%20Machine%20Learning-Projects-blueviolet?style=plastic)](https://github.com/ankit071105)
+[![Web Apps](https://img.shields.io/badge/🌐%20Web%20Applications-Projects-9cf?style=plastic)](https://github.com/ankit071105)
+[![Mobile Apps](https://img.shields.io/badge/📱%20Mobile%20Apps-Projects-ff69b4?style=plastic)](https://github.com/ankit071105)
+
+## 📈 GitHub Stats & Activity
+
+### � Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ankit071105&label=Profile%20Views&color=blueviolet&style=plastic)
+
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankit071105&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankit071105&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ankit071105/github-profile-trophy)
+
+### 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=ankit071105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-01a52827b)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitKumar63433)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100+-brightgreen?style=plastic&logo=leetcode)](https://leetcode.com/u/tech_ankit09/)
+[![Gmail](https://img.shields.io/badge/Email-blue?style=plastic&logo=gmail)](mailto:kumarankit11458@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_ankit07/)
+
 [![](https://visitcount.itsvg.in/api?id=ankit071105&icon=9&color=6)](https://visitcount.itsvg.in)
-
-
