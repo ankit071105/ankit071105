@@ -16,7 +16,7 @@
 </picture>
 
 # 💫 About Me:
-## Hi, I'm Ankit Kumar - AI & Full Stack Developer
+## Hi, I'm Ankit Kumar - AI Web & App Developer
 
 ### 🌟 Core Competencies
 [![Full Stack Development](https://img.shields.io/badge/Full%20Stack-FF6F61?style=plastic)](https://github.com/ankit071105)
