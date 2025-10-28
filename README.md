@@ -1,4 +1,4 @@
-[![An image of @ankit071105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit071105)](https://holopin.io/@ankit071105)
+<img width="845" height="276" alt="Screenshot 2025-10-28 at 12 28 03 PM" src="https://github.com/user-attachments/assets/808410d6-aa3f-47f1-8e65-54416abbe81d" />
 
 <picture>
   <source
