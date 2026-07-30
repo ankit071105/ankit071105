@@ -7,9 +7,16 @@
 
 Final-year B.Tech CS student at **ITER, SOA University** (2023–2027, CGPA 8.2) actively building at the intersection of **Mobile Development**, **Generative AI**, and **Full-Stack Engineering**.
 
-Currently interning as a **Flutter Developer @ Fastpeer AI Corp** (building a production app on the Play Store) and completing an **ML Internship @ Celebal Technologies**.
+Pursuing a Bachelor of Technology in Computer Science at **Siksha 'O' Anusandhan University**. Currently interning as a **Flutter Developer @ Fastpeer AI Corp** (building a production app on the Play Store) and completing an **ML Internship @ Celebal Technologies**.
 
-🏆 Smart India Hackathon 2025 Runner-Up | 📱 4+ apps on Play Store | 📄 Patent Holder
+Previous internships at @ Hykit Care and @ Aveti Learning involved building platforms and pipelines from scratch using React.js, MySQL, Python, and advanced tools like Hugging Face NLP and OpenCV. Dedicated to delivering consistent and efficient user experiences across web and mobile platforms while leveraging technical expertise to solve complex challenges.
+
+🏆 Smart India Hackathon 2025 Runner-Up 
+
+🏆 MSME IDEA Hackathon 4.0 (Govt. of India)
+
+🏆 Odisha AI Symposium Winner
+
 
 ---
 
@@ -28,13 +35,10 @@ Currently interning as a **Flutter Developer @ Fastpeer AI Corp** (building a pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 
 #### 📱 Mobile App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
@@ -64,7 +68,6 @@ Currently interning as a **Flutter Developer @ Fastpeer AI Corp** (building a pr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 
 #### 🧠 ML / Deep Learning
@@ -136,16 +139,17 @@ Currently interning as a **Flutter Developer @ Fastpeer AI Corp** (building a pr
 ![Profile Views](https://komarev.com/ghpvc/?username=ankit071105&label=Profile%20Views&color=blueviolet&style=plastic)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankit071105&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit071105&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit071105&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ankit071105/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankit071105&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ankit071105/github-profile-trophy) 
 
 ### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=ankit071105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-contributor-stats.vercel.app/api?username=ankit071105&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 ---
 
 ## 🌐 Connect With Me
