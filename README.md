@@ -1,4 +1,12 @@
-<img width="845" height="276" alt="Screenshot 2025-10-30 at 12 20 30 PM" src="https://github.com/user-attachments/assets/022af8db-525d-48eb-97c6-80264780fa6c" /> <picture>  <source    media="(prefers-color-scheme: dark)"    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />  <source    media="(prefers-color-scheme: light)"    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />  <img    alt="github contribution grid snake animation"    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  /></picture>
+
+
+<p align="center">
+  <a href="https://holopin.io/@ankit071105">
+    <img src="https://holopin.me/ankit071105" alt="@ankit071105 Holopin badges"/>
+  </a>
+</p>
+
+<picture>  <source    media="(prefers-color-scheme: dark)"    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />  <source    media="(prefers-color-scheme: light)"    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />  <img    alt="github contribution grid snake animation"    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  /></picture>
 
 
 # 💫 About Me
